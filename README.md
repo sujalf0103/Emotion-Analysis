@@ -13,7 +13,7 @@ This is ideal for analyzing customer behavior, audience engagement, or general m
 
 🚀 Getting Started
 Prerequisites
-You'll need Python 3.8+ and the following core libraries.
+You'll need Python 3.8 - 3.11 and the following core libraries.
 
 Package
 
